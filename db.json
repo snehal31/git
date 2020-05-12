@@ -1,0 +1,41 @@
+{
+	"abc":{
+				"name":"wheat",
+				"quan":10,
+				"price":35
+	
+	
+		  },
+		  
+	"pqr":{
+				"name":"rice",
+				"quan":20,
+				"price":45
+	
+	
+		  },
+
+	"mno":{
+				"name":"corn",
+				"quan":15,
+				"price":35
+	
+	
+		  },
+		  
+	"xyz":{
+				"name":"jawar",
+				"quan":50,
+				"price":50
+	
+	
+		  },
+
+
+
+
+
+
+
+
+}
